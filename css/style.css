@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.grosrectangle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.groscarre {
+    width: 49vw;
+    height: 49vw;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.cadet {
+    background-color: cadetblue;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.petitrectangle {
+    width: 100%;
+    height: 39%
+}
+
+.petitcarre {
+    width: 49%;
+    height: 59%;
+    margin-top: 2%;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.chartreuse {
+    background-color: chartreuse;
+}
+
+.pink {
+    background-color: pink;
+}
